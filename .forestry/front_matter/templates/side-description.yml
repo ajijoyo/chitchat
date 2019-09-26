@@ -21,7 +21,6 @@ fields:
   - type: text
     name: github_url
     label: github
-    description: github url
   - name: linkedin_url
     type: textarea
     default: ''
@@ -31,7 +30,6 @@ fields:
       schema:
         format: markdown
     label: linkedin
-    description: linkedin url
 - type: text
   name: type
   label: type
