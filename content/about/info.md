@@ -8,6 +8,7 @@ contact_info:
   email: self.ajiejoy@gmail.com
   twitter_url: ''
   github_url: https://github.com/ajijoyo
+  linkedin_url: https://www.linkedin.com/in/ajiejoy
 type: ''
 
 ---
