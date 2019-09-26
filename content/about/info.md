@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-09-25T20:13:19+00:00
+date: 2019-09-25T20:13:19.000+00:00
 background_color: "#B4CEC8"
 contact_info:
   twitter_handle: ajiejoy
@@ -9,7 +9,6 @@ contact_info:
   twitter_url: ''
   github_url: https://github.com/ajijoyo
   linkedin_url: https://www.linkedin.com/in/ajiejoy
-type: ''
 
 ---
 ## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
